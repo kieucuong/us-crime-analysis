@@ -1,0 +1,35 @@
+PEPTCOMP
+Estimates of the Components of Resident Population Change: April 1, 2010 to July 1, 2012
+
+(X) Not applicable.
+
+
+[1] Total population change includes a residual. This residual represents the change in 
+population that cannot be attributed to any specific demographic component. See Population 
+Estimates Terms and Definitions at  
+http://www.census.gov/popest/about/terms.html.
+
+
+[2] Net international migration (except for Puerto Rico) includes the international migration of 
+both native and foreign-born populations. Specifically, it includes: (a) the net international 
+migration of the foreign born, (b) the net migration between the United States and Puerto Rico, 
+(c) the net migration of natives to and from the United States, and (d) the net movement of the 
+Armed Forces population between the United States and overseas. Net international migration for 
+Puerto Rico includes only the international migration of native and foreign-born populations 
+between the United States and Puerto Rico.
+
+
+Note: The estimates are based on the 2010 Census and reflect changes to the April 1, 2010 
+population due to the Count Question Resolution program and geographic program revisions. See Geographic Terms and Definitions at 
+ 
+http://www.census.gov/popest/about/geo/terms.html for a list of the states that are included 
+in each region and division. For population estimates methodology statements, see  
+http://www.census.gov/popest/methodology/index.html.
+
+
+Suggested Citation: 
+Estimates of the Components of Resident Population Change: April 1, 2010 to July 1, 2012 
+Source: U.S. Census Bureau, Population Division 
+Release Dates: For the United States, regions, divisions, states, and Puerto Rico Commonwealth, December 2012.  For counties, March 2013.  
+
+
